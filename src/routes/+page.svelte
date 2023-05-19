@@ -12,7 +12,7 @@
 	let vis = "visible";
 	let story = false;
 
-	const randomArr = object => {
+	const randomize = object => {
 		const keysArray = Object.keys(object);
 		const length = keysArray.length;
 		const result = [];
@@ -29,9 +29,9 @@
 		return result;
 	}
 
-	const randomStoryIndex = randomArr(stories)
+	const randomStoryIndex = randomize(stories)
 
-	function toggleHomeVisible(param) {
+	const togglePost = (param) => {
 		index = param;
 		typed = '';
 		let string = stories[param].text;
@@ -46,7 +46,6 @@
 				clearInterval(typing);
 			}
 		}, 10);
-
 	}
 
 	
@@ -71,7 +70,7 @@
 			<div class="cutoutContainer" style="height:{innerHeight}; width:{innerWidth};" transition:blur={options} >
 				{#each randomStoryIndex as story}
 					<div class="cutout" >
-						<a class="cutoutLink" href="/"on:click|preventDefault={() => toggleHomeVisible(story)} >
+						<a class="cutoutLink" href="/"on:click|preventDefault={() => togglePost(story)} >
 							<img src="/cutouts/{story}c.png" alt="">
 						</a>
 					</div>
