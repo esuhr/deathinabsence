@@ -35,7 +35,8 @@
 	@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@200&display=swap');
 
 	.storyCover {
-		background-color:#e4e0d9;
+		background: radial-gradient(#e1ddd7, #e4e0d9);
+		/* background-color:#e4e0d9; */
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -73,7 +74,7 @@
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		width: 60vw;
+		width: 75vw;
 	}
 
 </style>
