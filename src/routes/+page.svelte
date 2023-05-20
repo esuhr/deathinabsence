@@ -71,13 +71,13 @@
 				{#each randomStoryIndex as story}
 					<div class="cutout" >
 						<a class="cutoutLink" href="/"on:click|preventDefault={() => togglePost(story)} >
-							<img src="/cutouts/{story}c.png" alt="">
+							<img src="/cutouts/{story}c.webp" alt="">
 						</a>
 					</div>
 				{/each}
 				{#if index}
 					{#key index}
-						<img class="cut" src="/cutouts/{index}.png" alt="" transition:blur={options}>
+						<img class="cut" src="/cutouts/{index}.webp" alt="" transition:blur={options}>
 					{/key}
 					<div class="postContainer" >
 						<div class="post">
