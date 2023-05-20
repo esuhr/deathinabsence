@@ -36,7 +36,6 @@
 
 	.storyCover {
 		background: radial-gradient(#e1ddd7, #e4e0d9);
-		/* background-color:#e4e0d9; */
 		display: flex;
 		align-items: center;
 		justify-content: center;
@@ -53,7 +52,6 @@
 		width: 100vw;
 		position: fixed;
 	}
-
 	.bgText {
 		pointer-events: none;
 		text-transform: uppercase;

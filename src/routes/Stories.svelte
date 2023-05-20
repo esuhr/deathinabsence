@@ -50,7 +50,7 @@
 			text: "this is a 16 branch",
 		},
 		17: {
-			text: "Try again, said the monk, is it on or under.<br><br>Is it not both?<br><br>Correct, but it's neither.<br><br>Why is it neither?<br><br>Try again to see.<br><br>It's neither and both?<br><br>Correct, but it's neither neither or both. A cloud is not water. A cloud is water. Everything is water.",
+			text: "try again, he said, is it on or under it's not both you're right, but it's also neither why neither try again to see without your eyes it's neither and both you're right, but it's neither neither or both a cloud is not water a cloud is water everything is water",
 		},
 		18: {
 			text: "it was sometime after dusk that i visited him at the hospital  promised i would visit him that day and he would remember so i did but i don't remember where i was coming from, except that his bed was on the third floor, a few doors down from the nurses desk that was empty as i walked by the other patients were gone or asleep, i couldn't tell i took a step into the dark and sat down next to his bed i watched him sleep then all of a sudden he grabbed my hand and wailed, his voice and hands shaking i wondered if he was crying as if it was impossible and he opened his eyes and grabbed my hand looking me straight in the eyes with his glistening and said thank god you're here thank god i was waiting for you thank god you're here",

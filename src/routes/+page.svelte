@@ -22,7 +22,6 @@
 			const j = Math.floor(Math.random() * (i + 1));
 			[numbersArray[i], numbersArray[j]] = [numbersArray[j], numbersArray[i]];
 		}
-
 		for(let i = 0; i < length; i++) {
 			result.push(numbersArray[i])
 		}
@@ -100,9 +99,6 @@
 		padding: 0;
 		background-color: #e4e0d9;
 	}
-
-
-
 	.pageContainer {
 		display: flex;
 		flex-direction: column;
@@ -139,7 +135,6 @@
 		/* border: 1px red solid; */
 		z-index: 1;
 	}
-
 	.cut {
 		position: fixed;
 		height: 50vmin;
@@ -149,7 +144,6 @@
 		transform: translate(-50%, -50%);
 		/* border: 1px red solid; */
 	}
-
 	.post {
 		padding-top: 15vh;
 		font-size: 4vmin;
@@ -159,7 +153,6 @@
 		/* border: 1px red solid; */
 
 	}
-
 	.post p {
 		top: 0;
 		padding-left: 1rem;
