@@ -47,7 +47,6 @@
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		border: 1px red solid;
 		height: 100vh;
 		width: 100vw;
 		position: fixed;

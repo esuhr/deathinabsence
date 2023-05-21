@@ -132,7 +132,6 @@
 		flex-direction: column;
 		align-items: center;
 		height: 80vh;
-		/* border: 1px red solid; */
 		z-index: 1;
 	}
 	.cut {
@@ -140,12 +139,11 @@
 		min-height: 10vh;
 		max-height: 70vmin;
 		min-width: 10vw;
-		max-width: 80vw;
 		z-index: 10;
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		/* border: 1px red solid; */
+		
 	}
 	.post {
 		padding-top: 15vh;
@@ -153,7 +151,7 @@
 		width: 100vw;
 		line-height: 4vmin;
 		overflow: hidden;
-		/* border: 1px red solid; */
+		
 
 	}
 	.post p {
