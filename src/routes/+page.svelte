@@ -137,8 +137,8 @@
 	}
 	.cut {
 		position: fixed;
-		min-height: 15vh;
-		max-height: 50vh;
+		min-height: 10vh;
+		max-height: 70vmin;
 		min-width: 10vw;
 		max-width: 80vw;
 		z-index: 10;
