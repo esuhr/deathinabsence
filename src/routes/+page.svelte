@@ -123,7 +123,7 @@
 		pointer-events: none;
 		position: fixed;
 		left: 50%;
-		top: 20vh;
+		top: 35vh;
 		font-family: 'Spectral', sans-serif;
 		color: #272727;
 		z-index: 10;
@@ -132,13 +132,15 @@
 		flex-direction: column;
 		align-items: center;
 		height: 80vh;
+		width: 100vw;
 		z-index: 1;
+		border: 1px red solid;
 	}
 	.cut {
 		position: fixed;
 		min-height: 30vmax;
 		max-height: 50vh;
-		min-width: 10vw;
+		min-width: 5vw;
 		z-index: 10;
 		top: 40vh;
 		left: 50%;
@@ -146,17 +148,15 @@
 		
 	}
 	.post {
-		padding-top: 15vh;
-		font-size: 2.5vmin;
+		font-size: 4vmin;
 		width: 100vw;
-		line-height: 2.5vmin;
+		line-height: 4vh;
 		overflow: hidden;
 		
 
 	}
 	.post p {
 		top: 0;
-		padding-left: 1rem;
-		padding-right: 1rem;
+		padding: 5vmax;
 	}
 </style>
