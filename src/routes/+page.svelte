@@ -147,7 +147,7 @@
 	}
 	.post {
 		padding-top: 15vh;
-		font-size: 2vmin;
+		font-size: 2.5vmin;
 		width: 100vw;
 		line-height: 2.5vmin;
 		overflow: hidden;
