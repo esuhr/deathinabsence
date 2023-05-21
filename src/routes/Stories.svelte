@@ -2,7 +2,7 @@
 
 	export const stories = {
 		1: {
-			text: "i met him for the first time seven years a 12 hours on the plane an hour and a half on the train another hour in a taxi and a bus ride would take me to the village's only thoroughfare of which his house was on a branch of his house was next to a road that was built alongside the stream that ran its crooked course from the foothills through past his house to the ocean and he was there hanging on for dear life all my friends are long passed he said and the first time he knew i wasn't staying so he let me go he told me to go but when he knew i would stay he clung like road to river like sunlight to a tree",
+			text: "i met him for the first time seven years ago 12 hours on the plane an hour and a half on the train another hour in a taxi and a long bus ride would take me to the village's only thoroughfare of which his house was just a branch of his house was next to a road that was built alongside the stream that ran its snaked down from the foothills past his house to the ocean and he was there hanging on for dear life all my friends are long passed he said and the on that first visit he knew i wasn't staying so he let me go he told me to go but when he knew i would stay he clung like road to river like sunlight to a tree",
 		},
 		2: {
 			text: "an empty field is full, they say, there's a field where his life was, a wall where his home was, and a patch of ground where nothing grows, not in spring, or fall, or summer but in winter the fields are burned bare to make room for the planting season",
