@@ -136,13 +136,13 @@
 	}
 	.cut {
 		position: fixed;
-		min-height: 10vh;
-		max-height: 70vmin;
+		min-height: 30vmax;
+		max-height: 50vh;
 		min-width: 10vw;
 		z-index: 10;
-		top: 50%;
+		top: 40vh;
 		left: 50%;
-		transform: translate(-50%, -50%);
+		transform: translate(-50%, 0);
 		
 	}
 	.post {
