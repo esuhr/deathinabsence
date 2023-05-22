@@ -126,7 +126,6 @@
 		top: 35vh;
 		font-family: 'Spectral', sans-serif;
 		color: #272727;
-		z-index: 10;
 		transform: translate(-50%,0);
 		display: flex;
 		flex-direction: column;

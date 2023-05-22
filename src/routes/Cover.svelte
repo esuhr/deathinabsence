@@ -16,7 +16,6 @@
 		})
 	})
 </script>
-
 <div class="storyCover" style="overflow-y: hidden;">
 	<a href="/" class="bg">
 		<div class="hoverContainer"></div>
