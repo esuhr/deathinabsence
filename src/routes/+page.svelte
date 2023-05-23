@@ -133,7 +133,6 @@
 		height: 80vh;
 		width: 100vw;
 		z-index: 1;
-		border: 1px red solid;
 	}
 	.cut {
 		position: fixed;

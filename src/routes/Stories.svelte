@@ -11,13 +11,13 @@
 			text: "you should try it what stacking stones and make sure to say your prayers each time you pass so they don't make it all at once what do you mean it's not built in one go no it's not every time you pass you place a stone and wish the same wish and one day it'll come true yes it'll come true",
 		},
 		4: {
-			text: "this is a 4 branch",
+			text: "",
 		},
 		5: {
-			text: "this is a 5 branch",
+			text: "",
 		},
 		6: {
-			text: "this is a 6 branch",
+			text: "",
 		},
 		7: {
 			text: "after the war, the government started a tree planting campaign to cover the mountain faces that had been scarred and left barren by bullets, shells, and fires, then some forty years later, the government started a land reclamation campaign and filled truck after truck with carvings that are used to fill the space between islands, to turn wave to bushel, to feed the many lives that walk on what used to be water",
@@ -29,25 +29,25 @@
 			text: "me and my brother grew up on estranged country and he said this about his brother too that they lived wild running across full rivers drink too much but one day after a long day he didn't want to meet his brother but he did and they drank too much again and as they paid and left his brother gave him a book of poems and in his drunkenness he forgot to take the book with him as he left the taxi walked home and woke up in regret",
 		},
 		10: {
-			text: "this is a 10 branch",
+			text: "",
 		},
 		11: {
 			text: "on visits he would tell me about the other people that had come to see him that week: a monk who brought bags of gifts, he said it was because she regretted the way she treated her father when she was younger her father refused to send her to school, she ran away to the temple and didn't look back and some odd years later she was notified that her father passed away she visits at least once a month, her arms full of gifts and others too, he speculated, had similar concerns",
 		},
 		12: {
-			text: "this is a 12 branch",
+			text: "",
 		},
 		13: {
-			text: "this is a 13 branch",
+			text: "",
 		},
 		14: {
-			text: "this is a 14 branch",
+			text: "",
 		},
 		15: {
 			text: "every day he fills another page: july 18, weather: partly cloudy hot 18 ants 25 ants 32 ants no visitors today ufc on channel 19 urine, twice, faeces, once",
 		},
 		16: {
-			text: "this is a 16 branch",
+			text: "",
 		},
 		17: {
 			text: "try again, he said, is it on or under it's not both you're right, but it's also neither why neither try again to see without your eyes it's neither and both you're right, but it's neither neither or both a cloud is not water a cloud is water everything is water",
@@ -65,7 +65,7 @@
 			text: "he's gone and the short mud walls are empty save for his belongings: two shelves of books, a small closet with worn out clothes, pots, pans, twenty or so journals filled cover to cover i try to remember I try to hold what I can in my hands but what I have left is a blurry portrait of a night that has gone out with the tide of what was into the dark, into the light",
 		},
 		22: {
-			text: "this is a 11 branch",
+			text: "",
 		},
 		23: {
 			text: "what will it be for you today, sir the usual and keep the side dishes coming of course and your health my health it's the same or worse at my age there's no such thing as better of course, of course, but you're still so lively even at your age, sir does this look lively to you i can barely walk i'm just counting down the days until i'm gone 234 last time i checked",
@@ -77,7 +77,7 @@
 			text: "for as long as i had known him, he talked about two topics regularly: what he would do if he won the lotto and his death if he won the lotto, he said, he would build a house for the two of us and he would give half to the people around him maybe 50,000 to the monk for all the gifts she ever brought and 20,000 to the councilman and with the rest he would have his fill of food and drink on days he didn't talk about the lotto, he would talk of his death, he tried to guess how long he had left, marked it on his calendar, counted down and on each birthday, he would mark another arbitrary date but sometimes the count would change suddenly: it's 53 today i think i can make it to spring and he did it was spring when he died but the flowers had not yet bloomed",
 		},
 		26: {
-			text: "this is a 15 branch",
+			text: "",
 		},
 		27: {
 			text: "bury me next to my brother, he would say, burn me into ash and bury me with the roots of a magnolia and the birds, he said, would visit, even if no one else did, once or twice a year, the sound of birds would fill the emptiness, he said, and he wouldn't be alone",
@@ -89,7 +89,7 @@
 			text: "near a temple up on a hill there is an unmarked tomb, an unmarked obelisk, the lone abbot doesn't know who or why, only that it's been there as long as he has",
 		},
 		30: {
-			text: "this is a 19 branch",
+			text: "",
 		},
 		31: {
 			text: "when i was able i would run up and down these mountains he said and i listened to him say it again and again because i heard what he wanted to say and i didn't want him to hear me thinking the same that if i could i would run up and down these mountains without looking back",
